@@ -10,6 +10,7 @@ Other potential risk factors include: family history of breast cancer, age of me
  According to Johnson et al (2009) smoking tobacco appears to increase the risk of breast cancer which is higher depending on how long the person has been smoking.  Long term smokers and alcohol consumption have an increased risk of about 35% to 50% (Santoro, 2009).
  
 The various ways of detecting breast cancer may include: clinical examination by a physician, self breast examination and mammography.
+
 Support Vector Machines belongs to the class of supervised learning systems. It is one of the best optimization procedures.
  This reduces the over-flowing of the trained data.
  The goal is to find the optimized decision boundaries to predict the breast cancer at the earlier stage.
